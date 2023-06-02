@@ -1,5 +1,7 @@
 # IBM Certificate Manager Terraform Module
 
+🕸️ Archived: This repository has been archivied since support for Certificate Manager ended on 1 December 2022, and all Certificate Manager instances have been deleted.
+
 This is a collection of modules that make it easier to provision certificate Manager, Import and Order Certificates on IBM Cloud Platform:
 * [instance](./modules/instance)
 * [import](./modules/import)
